@@ -1,0 +1,5 @@
+Please note that this script assumes you have a valid private key or wallet JSON file for the sending address, and that you have sufficient ETH in that address to cover the transactions. Make sure to replace 'your-private-key' with your actual private key or specify the correct path to your wallet JSON file.
+
+Also, replace 'address1', 'address2', 'address3' with the actual recipient addresses you want to send ETH to, and adjust the amount variable as needed.
+
+Please exercise caution when working with cryptocurrencies and ensure that you have a good understanding of the risks involved.
